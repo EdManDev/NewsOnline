@@ -182,6 +182,12 @@ article {
 
 /*-------------------- image----------------------- */
 
+.theme-logo {
+  margin-bottom: 60px;
+  float: left;
+  max-width: 510px;
+  margin-top: 0;
+}
 .theme-image {
   float: right;
   margin-top: 0px;
